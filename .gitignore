@@ -2,3 +2,4 @@ dict_file/
 out/
 model_api.json
 __pycache__/
+core
