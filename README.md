@@ -169,6 +169,7 @@ fast_dict/
 - **UI框架**: PyQt5
 - **模糊匹配**: Python difflib
 - **全局热键**: Qt QShortcut
+- **崩溃防护**: 启动时禁用 core dump，防止底层 C 库崩溃时生成巨大转储文件
 
 ## 常见问题
 

@@ -1,5 +1,8 @@
-dict_file/
-out/
+# 忽略 dict_file 目录下的文件，但保留目录本身
+dict_file/*
+!dict_file/
+out/*
+!out/
 model_api.json
 __pycache__/
 core
