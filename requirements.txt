@@ -1,0 +1,3 @@
+PyQt5>=5.15.0
+pyqtkeybind>=0.0.9  # 支持 Wayland 的全局热键库
+openai>=1.0.0       # OpenAI Compatible API 客户端
